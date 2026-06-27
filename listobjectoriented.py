@@ -36,3 +36,4 @@ def main():
     max2 = list2_result.multiply_list()
     print(max(max1, max2))
 main()
+print('hello')
